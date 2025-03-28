@@ -1,4 +1,4 @@
-# dan
+# Danielisrael
 # 💫 About Me:
 artificial intelligence<br>data science<br>machine learning <br>big data<br>python<br>tensorflow
 
